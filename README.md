@@ -10,3 +10,4 @@ Aqui estarán mis actividades de cada semana
 
 - **Data Analysis With Python:**
   * [Actividad de semana 4: Modulo 1 - Data Analysis with Python (IBM)](https://github.com/PosgradoMNA/actividades-de-aprendizaje-A01793101-GuillermoMuniz/tree/main/Data%20Analysis%20with%20Python/Actividad%20Semana%204:%20Modulo%201%20-%20Data%20Analysis%20with%20Python(IBM))
+  * [Actividad de semana 4: Modulo 2 - Data Analysis with Python (IBM)](https://github.com/PosgradoMNA/actividades-de-aprendizaje-A01793101-GuillermoMuniz/tree/main/Data%20Analysis%20with%20Python/Actividad%20Semana%204:%20Modulo%202%20-%20Data%20Analysis%20with%20Python(IBM))
